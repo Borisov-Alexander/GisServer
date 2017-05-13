@@ -1,0 +1,262 @@
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ApplicationInsights.config
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\csc.exe
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\csc.exe.config
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\csc.rsp
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\csi.exe
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\csi.rsp
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\System.AppContext.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\System.Collections.Immutable.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\System.IO.FileSystem.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\vbc.exe
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\vbc.exe.config
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\vbc.rsp
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\VBCSCompiler.exe
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\roslyn\VBCSCompiler.exe.config
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\GisSystemServer.dll.config
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\GisSystemServer.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\GisSystemServer.pdb
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Antlr3.Runtime.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\EntityFramework.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\EntityFramework.SqlServer.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.AI.Web.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.AI.WindowsServer.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.ApplicationInsights.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.Google.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.Web.Infrastructure.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Newtonsoft.Json.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Owin.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Net.Http.Formatting.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.Helpers.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.Http.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.Http.Owin.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.Http.WebHost.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.Mvc.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.Optimization.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.Razor.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.WebPages.Deployment.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.WebPages.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.WebPages.Razor.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\WebGrease.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Newtonsoft.Json.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Net.Http.Formatting.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.Helpers.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.Http.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.Http.WebHost.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.Mvc.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.Optimization.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.Razor.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.WebPages.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.WebPages.Deployment.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.WebPages.Razor.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Antlr3.Runtime.pdb
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\EntityFramework.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\EntityFramework.SqlServer.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.Google.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.Http.Owin.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.ApplicationInsights.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.AI.WindowsServer.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\Microsoft.AI.Web.xml
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\System.Net.Http.Formatting.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\System.Web.Helpers.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\System.Web.Http.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\System.Web.Http.WebHost.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\System.Web.Mvc.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\System.Web.Optimization.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\System.Web.Razor.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\System.Web.WebPages.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\EntityFramework.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\EntityFramework.SqlServer.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\Microsoft.Owin.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\Microsoft.Owin.Security.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\bin\ru\System.Web.Http.Owin.resources.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\obj\Debug\GisSystemServer.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\obj\Debug\GisSystemServer.dll
+c:\users\александр\documents\visual studio 2017\Projects\GisSystemServer\GisSystemServer\obj\Debug\GisSystemServer.pdb
+c:\Users\Александр\Documents\Visual Studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.Cors.dll
+c:\Users\Александр\Documents\Visual Studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.Http.Cors.dll
+c:\Users\Александр\Documents\Visual Studio 2017\Projects\GisSystemServer\GisSystemServer\bin\System.Web.Http.Cors.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\ApplicationInsights.config
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\csc.exe
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\csc.exe.config
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\csc.rsp
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\csi.exe
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\csi.rsp
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\System.AppContext.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\System.Collections.Immutable.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\System.IO.FileSystem.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\vbc.exe
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\vbc.exe.config
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\vbc.rsp
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\VBCSCompiler.exe
+C:\Repository\GisSystemServer\GisSystemServer\bin\roslyn\VBCSCompiler.exe.config
+C:\Repository\GisSystemServer\GisSystemServer\bin\GisSystemServer.dll.config
+C:\Repository\GisSystemServer\GisSystemServer\bin\GisSystemServer.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\GisSystemServer.pdb
+C:\Repository\GisSystemServer\GisSystemServer\bin\Antlr3.Runtime.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\EntityFramework.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\EntityFramework.SqlServer.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.AI.Web.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.AI.WindowsServer.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.ApplicationInsights.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.Google.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Newtonsoft.Json.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Owin.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Net.Http.Formatting.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.Cors.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.Helpers.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.Http.Cors.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.Http.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.Http.Owin.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.Http.WebHost.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.Mvc.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.Optimization.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.Razor.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.WebPages.Deployment.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.WebPages.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.WebPages.Razor.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\WebGrease.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.Http.Cors.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\Newtonsoft.Json.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Net.Http.Formatting.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.Helpers.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.Http.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.Http.WebHost.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.Mvc.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.Optimization.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.Razor.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.WebPages.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.WebPages.Deployment.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.WebPages.Razor.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\Antlr3.Runtime.pdb
+C:\Repository\GisSystemServer\GisSystemServer\bin\EntityFramework.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\EntityFramework.SqlServer.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.Google.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\System.Web.Http.Owin.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.ApplicationInsights.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.AI.WindowsServer.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.AI.Web.xml
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\System.Web.Helpers.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\System.Web.Http.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\System.Web.Mvc.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\System.Web.Optimization.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\System.Web.Razor.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\System.Web.WebPages.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\EntityFramework.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\Microsoft.Owin.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\ru\System.Web.Http.Owin.resources.dll
+C:\Repository\GisSystemServer\GisSystemServer\obj\Debug\GisSystemServer.csprojResolveAssemblyReference.cache
+C:\Repository\GisSystemServer\GisSystemServer\obj\Debug\GisSystemServer.dll
+C:\Repository\GisSystemServer\GisSystemServer\obj\Debug\GisSystemServer.pdb
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Cors.dll
+C:\Repository\GisSystemServer\GisSystemServer\bin\Microsoft.Owin.Cors.xml
