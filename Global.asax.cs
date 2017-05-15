@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GisSystemServer.App_Start;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -13,6 +14,7 @@ namespace GisSystemServer
     {
         protected void Application_Start()
         {
+            AutofacConfig.Init();
             AreaRegistration.RegisterAllAreas();
             GlobalConfiguration.Configure(WebApiConfig.Register);
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
