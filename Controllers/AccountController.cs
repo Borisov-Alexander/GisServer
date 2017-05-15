@@ -17,6 +17,9 @@ using GisSystemServer.Models;
 using GisSystemServer.Providers;
 using GisSystemServer.Results;
 using System.Web.Http.Cors;
+using GisSystemServer.Context;
+using GisSystemServer.Entity;
+using GisSystemServer.Repository;
 
 namespace GisSystemServer.Controllers
 {
@@ -26,17 +29,18 @@ namespace GisSystemServer.Controllers
     public class AccountController : ApiController
     {
         private const string LocalLoginProvider = "Local";
-        private ApplicationUserManager _userManager;
-
-        public AccountController()
-        {
+        private ApplicationUserManager _userManager;        
+        private IUserRepository _userRepository;
+        public AccountController(IUserRepository userRepository)
+        {           
+            _userRepository = userRepository;
         }
-
         public AccountController(ApplicationUserManager userManager,
-            ISecureDataFormat<AuthenticationTicket> accessTokenFormat)
+            ISecureDataFormat<AuthenticationTicket> accessTokenFormat, IUserRepository userRepository)
         {
             UserManager = userManager;
-            AccessTokenFormat = accessTokenFormat;
+            AccessTokenFormat = accessTokenFormat;           
+            _userRepository = userRepository;
         }
 
         public ApplicationUserManager UserManager
@@ -333,12 +337,24 @@ namespace GisSystemServer.Controllers
             var user = new ApplicationUser() { UserName = model.Email, Email = model.Email };
 
             IdentityResult result = await UserManager.CreateAsync(user, model.Password);
+             
 
             if (!result.Succeeded)
             {
                 return GetErrorResult(result);
             }
+            Customer customer = new Customer();
+            customer.email = model.Email;
+            customer.firstName = "Alexander";
+            customer.lastName = "Borisov";
+            //UserContext context = new UserContext();
+            //context.customer.Add(customer);
+            //context.SaveChanges();
+            //context.Dispose();
 
+
+
+            _userRepository.createCustomer(customer);
             return Ok();
         }
 
@@ -375,12 +391,22 @@ namespace GisSystemServer.Controllers
             return Ok();
         }
 
+        //[HostAuthentication(DefaultAuthenticationTypes.ExternalBearer)]
+        //[Route("UserFullInfo")]
+        //public Customer GetUserFullInfo()
+        //{
+        //    ExternalLoginData externalLogin = ExternalLoginData.FromIdentity(User.Identity as ClaimsIdentity);            
+
+        //    return 
+        //}
+
+
         protected override void Dispose(bool disposing)
         {
-            if (disposing && _userManager != null)
+            if (disposing && _userManager != null )
             {
                 _userManager.Dispose();
-                _userManager = null;
+                _userManager = null;                
             }
 
             base.Dispose(disposing);
