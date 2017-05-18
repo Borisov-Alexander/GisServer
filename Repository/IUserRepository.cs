@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using System.Linq;
 using System.Threading.Tasks;
 using GisSystemServer.Entity;
 
@@ -12,5 +11,6 @@ namespace GisSystemServer.Repository
     {
         void createCustomer(Customer customer);
         Customer getCustomerByEmail(string email);
+        void updUser(Customer customer);
     }
 }

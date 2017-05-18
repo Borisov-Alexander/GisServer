@@ -1,3 +1,4 @@
+App_Data/
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -45,3 +46,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.mdf
+*.ldf
+App_Data/aspnet-GisSystemServer-20170509023851.mdf
