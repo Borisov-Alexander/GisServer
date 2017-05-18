@@ -347,13 +347,7 @@ namespace GisSystemServer.Controllers
             customer.email = model.Email;
             customer.firstName = "Alexander";
             customer.lastName = "Borisov";
-            //UserContext context = new UserContext();
-            //context.customer.Add(customer);
-            //context.SaveChanges();
-            //context.Dispose();
-
-
-
+            
             _userRepository.createCustomer(customer);
             return Ok();
         }
@@ -391,14 +385,22 @@ namespace GisSystemServer.Controllers
             return Ok();
         }
 
-        //[HostAuthentication(DefaultAuthenticationTypes.ExternalBearer)]
-        //[Route("UserFullInfo")]
-        //public Customer GetUserFullInfo()
-        //{
-        //    ExternalLoginData externalLogin = ExternalLoginData.FromIdentity(User.Identity as ClaimsIdentity);            
+        [HostAuthentication(DefaultAuthenticationTypes.ExternalBearer)]
+        [Route("UserFullInfo")]
+        public Customer GetUserFullInfo()
+        {
+            ExternalLoginData externalLogin = ExternalLoginData.FromIdentity(User.Identity as ClaimsIdentity);
 
-        //    return 
-        //}
+            return _userRepository.getCustomerByEmail(User.Identity.GetUserName());
+        }
+
+        [HostAuthentication(DefaultAuthenticationTypes.ExternalBearer)]
+        [Route("UpdUser")]
+        public void updUser(Customer customer)
+        {
+            _userRepository.updUser(customer);
+        }
+
 
 
         protected override void Dispose(bool disposing)

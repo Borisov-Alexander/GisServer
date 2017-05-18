@@ -23,6 +23,7 @@ namespace GisSystemServer.App_Start
             builder.RegisterApiControllers(Assembly.GetExecutingAssembly());
             builder.RegisterType<UserContext>().As<UserContext>().InstancePerRequest(); ;
             builder.RegisterType<UserRepository>().As<IUserRepository>().InstancePerRequest(); ;
+            builder.RegisterType<FactoryRepository>().As<IFactoryRepository>().InstancePerRequest(); ;
             Container = builder.Build();
             MainScope = Container;
             config.DependencyResolver = new AutofacWebApiDependencyResolver(Container);

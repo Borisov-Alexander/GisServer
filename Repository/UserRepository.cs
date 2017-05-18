@@ -40,5 +40,19 @@ namespace GisSystemServer.Repository
         {
             return (Customer)context.customer.FirstOrDefault(m => m.email == email);
         }
+
+        public void updUser(Customer customer)
+        {
+            Customer cust = context.customer.Find(customer.customerId);
+            cust.adress = customer.adress;
+            cust.city = customer.city;
+            cust.company = customer.company;
+            cust.country = customer.country;
+            cust.description = customer.description;
+            cust.firstName = customer.firstName;
+            cust.lastName = customer.lastName;
+            cust.userName = customer.userName;
+            context.SaveChanges();
+        }
     }
 }
