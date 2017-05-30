@@ -46,5 +46,19 @@ namespace GisSystemServer.Repository
         {
             return context.factory.Where(m => m.usertEmail != "").ToList();
         }
+
+        public int[] getFactoryCount(string email)
+        {
+            List<Factory> list = context.factory.Where(m => m.usertEmail == email).ToList();
+            int[] count = new int[2];
+            count[0] = list.Count;
+            count[1] = context.factory.Count();
+            return count; 
+        }
+
+        public void updFactory(Factory factory)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

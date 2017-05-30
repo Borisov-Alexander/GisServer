@@ -12,5 +12,8 @@ namespace GisSystemServer.Repository
         void addFactory(Factory factory , string email);
         List<Factory> getFactoryByEmail(string email);
         List<Factory> getAllFactory();
+        int[] getFactoryCount(string email);
+        void updFactory(Factory factory);
+
     }
 }
