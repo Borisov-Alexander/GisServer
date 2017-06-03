@@ -14,5 +14,6 @@ namespace GisSystemServer.Context
         }
         public  DbSet<Customer> customer { get; set; }
         public DbSet<Factory> factory { get; set; }
+        public DbSet<Material> material { get; set; }
     }
 }
