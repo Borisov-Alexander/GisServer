@@ -18,6 +18,8 @@ namespace GisSystemServer.Repository
 
         public void addMaterial(Material material)
         {
+           Factory factory =  context.factory.FirstOrDefault(m => m.factiryId == m.factiryId);
+            material.factory = factory;            
             context.material.Add(material);
             context.SaveChanges();
         }
@@ -37,6 +39,7 @@ namespace GisSystemServer.Repository
 
         public List<Material> getAllMaterial()
         {
+             
             return context.material.Where(m => m.name != "").ToList();
         }
 

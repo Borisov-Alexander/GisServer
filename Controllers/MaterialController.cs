@@ -54,6 +54,7 @@ namespace GisSystemServer.Controllers
         [Route("addMaterial")]
         public void addmaterial(Material material)
         {
+            
              _materialRepository.addMaterial(material);
         }
         [HostAuthentication(DefaultAuthenticationTypes.ExternalBearer)]
