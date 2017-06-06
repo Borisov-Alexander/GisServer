@@ -18,7 +18,7 @@ namespace GisSystemServer.Repository
 
         public void addMaterial(Material material)
         {
-           Factory factory =  context.factory.FirstOrDefault(m => m.factiryId == m.factiryId);
+           Factory factory =  context.factory.FirstOrDefault(m => m.factiryId == material.factoryId);
             material.factory = factory;            
             context.material.Add(material);
             context.SaveChanges();
