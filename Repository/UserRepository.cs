@@ -16,6 +16,11 @@ namespace GisSystemServer.Repository
             context = _context;
         }
 
+        public void addMessage(Message message)
+        {
+            context.message.Add(message);
+            context.SaveChanges();
+        }
 
         public void createCustomer(Customer customer)
         {
@@ -36,9 +41,29 @@ namespace GisSystemServer.Repository
             }
         }
 
+        public List<Message> getAllMessage(string email)
+        {
+            return context.message.Where(m => m.forCustomer == email).ToList();
+        }
+
+        public Count getMessageCount(string email)
+        {
+            List<Message> list = context.message.Where(m => m.forCustomer == email).ToList();
+            Count count = new Count();
+            count.materialCount = list.Count;
+            return count;
+        }
+
+
+
         public Customer getCustomerByEmail(string email)
         {
             return (Customer)context.customer.FirstOrDefault(m => m.email == email);
+        }
+
+        public Message getMessageBy(int id , string email)
+        {
+            return context.message.FirstOrDefault(m => m.messageId == id);
         }
 
         public void updUser(Customer customer)

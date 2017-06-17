@@ -1,4 +1,5 @@
 ﻿using GisSystemServer.Entity;
+using GisSystemServer.Models;
 using GisSystemServer.Repository;
 using Microsoft.AspNet.Identity;
 using System;
@@ -69,6 +70,36 @@ namespace GisSystemServer.Controllers
         {
             return _factoryRepository.getAllFactory();
         }
+
+        [HostAuthentication(DefaultAuthenticationTypes.ExternalBearer)]
+        [Route("FactoryById/{customerId}/info")]
+        public Factory FactoryById(int customerId)
+        {
+            return _factoryRepository.getFactoryById(customerId);
+        }
+
+        [HostAuthentication(DefaultAuthenticationTypes.ExternalBearer)]
+        [Route("incrByMaterial/{customerId}/info")]
+        public void incrByMaterial(int customerId)
+        {
+            _factoryRepository.incrByMaterial(customerId);
+        }
+        [HostAuthentication(DefaultAuthenticationTypes.ExternalBearer)]
+        [Route("incrByFactory/{customerId}/info")]
+        public void incrByFactory(int customerId)
+        {
+            _factoryRepository.incrByFactory(customerId);
+        }
+
+        [HostAuthentication(DefaultAuthenticationTypes.ExternalBearer)]
+        [Route("GetViewsCount")]
+        public Count GetViewsCount()
+        {
+            return _factoryRepository.viewsCount(User.Identity.GetUserName());
+        }
+
+
+
 
     }
 }

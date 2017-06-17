@@ -71,6 +71,25 @@ namespace GisSystemServer.Controllers
             return _materialRepository.getAllMaterial();
         }
 
+        [HostAuthentication(DefaultAuthenticationTypes.ExternalBearer)]
+        [Route("MaterialByName/{name}/info")]
+        public List<Material> MaterialByname(string name)
+        {
+            return _materialRepository.getMaterialByName(name);
+        }
+        [HostAuthentication(DefaultAuthenticationTypes.ExternalBearer)]
+        [Route("MaterialById/{id}/info")]
+        public List<Material> MaterialById(int id)
+        {
+            return _materialRepository.MaterialById(id);
+        }
+
+        [HostAuthentication(DefaultAuthenticationTypes.ExternalBearer)]
+        [Route("getMaterialCount")]
+        public Count getFactoryByEmail()
+        {
+            return _materialRepository.materialCount(User.Identity.GetUserName());
+        }
 
 
     }

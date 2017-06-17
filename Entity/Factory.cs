@@ -17,7 +17,7 @@ namespace GisSystemServer.Entity
         public string adress { get; set; }
         public string site { get; set; }
         public string usertEmail { get; set; }
-                
-                
+        public double views { get; set; }
+
     }
 }

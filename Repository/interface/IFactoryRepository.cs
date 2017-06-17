@@ -14,6 +14,9 @@ namespace GisSystemServer.Repository
         List<Factory> getAllFactory();
         int[] getFactoryCount(string email);
         void updFactory(Factory factory);
-
+        Factory getFactoryById(int id);
+        void incrByMaterial(int id);
+        void incrByFactory(int id);
+        Count viewsCount(string email);
     }
 }

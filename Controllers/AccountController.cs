@@ -401,8 +401,33 @@ namespace GisSystemServer.Controllers
             _userRepository.updUser(customer);
         }
 
+        [HostAuthentication(DefaultAuthenticationTypes.ExternalBearer)]
+        [Route("AddMessage")]
+        public void addMessage(Message message)
+        {
+             _userRepository.addMessage(message);
+        }
 
+        [HostAuthentication(DefaultAuthenticationTypes.ExternalBearer)]
+        [Route("GetAllMessage")]
+        public List<Message> getAllMessage()
+        {
+           return _userRepository.getAllMessage(User.Identity.GetUserName());
+        }
 
+        [HostAuthentication(DefaultAuthenticationTypes.ExternalBearer)]
+        [Route("GetMessageBy/{customerId}/info")]
+        public Message getMessageBy(int customerId)
+        {
+            return _userRepository.getMessageBy(customerId, User.Identity.GetUserName());
+        }
+
+        [HostAuthentication(DefaultAuthenticationTypes.ExternalBearer)]
+        [Route("GetMessageCount")]
+        public Count getMessageCount()
+        {
+            return _userRepository.getMessageCount(User.Identity.GetUserName());
+        }
         protected override void Dispose(bool disposing)
         {
             if (disposing && _userManager != null )

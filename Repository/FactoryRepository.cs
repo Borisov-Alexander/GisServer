@@ -60,5 +60,37 @@ namespace GisSystemServer.Repository
         {
             throw new NotImplementedException();
         }
+
+        public Factory getFactoryById(int id)
+        {
+            return context.factory.FirstOrDefault(m => m.factiryId == id);
+        }
+
+        public void incrByMaterial(int id)
+        {
+            Material material =  context.material.FirstOrDefault(m => m.factory.factiryId == id);
+            material.factory.views++;
+            context.SaveChanges();
+        }
+
+        public void incrByFactory(int id)
+        {
+            Factory factory = context.factory.FirstOrDefault(m => m.factiryId == id);
+            factory.views= factory.views+ 1.0;
+            context.SaveChanges();
+        }
+
+        public Count viewsCount(string email)
+        {
+            double i = 0;
+            List<Factory> list = context.factory.Where(m => m.usertEmail == email).ToList();
+            foreach(Factory f in list)
+            {
+                i = i + f.views;
+            }
+            Count mc = new Count();
+            mc.materialCount = Convert.ToInt32(Math.Round(i));
+            return mc;
+        }
     }
 }

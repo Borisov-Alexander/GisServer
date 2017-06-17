@@ -12,5 +12,9 @@ namespace GisSystemServer.Repository
         void createCustomer(Customer customer);
         Customer getCustomerByEmail(string email);
         void updUser(Customer customer);
+        void addMessage(Message message);
+        List<Message> getAllMessage(string email);
+        Message getMessageBy(int id , string email);
+        Count getMessageCount(string email);
     }
 }

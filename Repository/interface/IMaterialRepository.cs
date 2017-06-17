@@ -11,5 +11,8 @@ namespace GisSystemServer.Repository
         void addMaterial(Material material);        
         List<Material> getAllMaterial();       
         void updMaterial(Factory factory);
+        List<Material> getMaterialByName(string name);
+        List<Material> MaterialById(int id);
+        Count materialCount(string name);
     }
 }
