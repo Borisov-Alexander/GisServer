@@ -6,12 +6,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Http;
- 
+using System.Web.Http.Cors;
 
 namespace GisSystemServer.Controllers
 {
     [Authorize]
-    [RoutePrefix("api/Material")]
+    [RoutePrefix("api/Material")]    
     public class MaterialController : ApiController
     {
         private const string LocalLoginProvider = "Local";
@@ -89,6 +89,14 @@ namespace GisSystemServer.Controllers
         public Count getFactoryByEmail()
         {
             return _materialRepository.materialCount(User.Identity.GetUserName());
+        }
+
+
+        [HostAuthentication(DefaultAuthenticationTypes.ExternalBearer)]
+        [Route("MinCostMaterial/{name}/info")]
+        public Material MinCostMaterial(string name)
+        {
+            return _materialRepository.getMinCostMaterial(name);
         }
 
 

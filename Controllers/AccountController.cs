@@ -23,9 +23,8 @@ using GisSystemServer.Repository;
 
 namespace GisSystemServer.Controllers
 {
-    
     [Authorize]
-    [RoutePrefix("api/Account")]
+    [RoutePrefix("api/Account")]    
     public class AccountController : ApiController
     {
         private const string LocalLoginProvider = "Local";

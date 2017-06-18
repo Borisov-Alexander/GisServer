@@ -48,6 +48,27 @@ namespace GisSystemServer.Repository
             return context.material.Where(m => m.name == name).ToList();
         }
 
+        public Material getMinCostMaterial(string name)
+        {
+            int i = 0;
+            Material currentMaterial = null; 
+            List<Material> list =  context.material.Where(m => m.name == name).ToList();
+            foreach(Material material in list)
+            {
+                if(currentMaterial == null)
+                {
+                    i = Convert.ToInt32(material.cost);
+                    currentMaterial = material;
+                }else if( i > Convert.ToInt32(material.cost))
+                {
+                    i = Convert.ToInt32(material.cost);
+                    currentMaterial = material;
+                }
+            }
+
+            return currentMaterial;
+        }
+
         public List<Material> MaterialById(int id)
         {
             return context.material.Where(m => m.materialId == id).ToList();

@@ -7,11 +7,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace GisSystemServer.Controllers
 {
     [Authorize]
-    [RoutePrefix("api/Factory")]
+    [RoutePrefix("api/Factory")]   
     public class FactoryController : ApiController
     {
         private const string LocalLoginProvider = "Local";        

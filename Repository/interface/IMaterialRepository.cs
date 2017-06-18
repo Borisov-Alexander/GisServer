@@ -14,5 +14,6 @@ namespace GisSystemServer.Repository
         List<Material> getMaterialByName(string name);
         List<Material> MaterialById(int id);
         Count materialCount(string name);
+        Material getMinCostMaterial(string name);
     }
 }
