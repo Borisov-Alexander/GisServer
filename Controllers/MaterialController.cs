@@ -94,7 +94,7 @@ namespace GisSystemServer.Controllers
 
         [HostAuthentication(DefaultAuthenticationTypes.ExternalBearer)]
         [Route("MinCostMaterial/{name}/info")]
-        public Material MinCostMaterial(string name)
+        public Material getMinCostMaterial(string name)
         {
             return _materialRepository.getMinCostMaterial(name);
         }
